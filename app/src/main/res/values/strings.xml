@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">distributoreDiBirra</string>
+    <string name="cerca_birra">Cerca Birra!</string>
+    <string name="brands">Nessuna birra selezionata</string>
+    <!--In questo modod aggiungiamo un array di stringhe al nome.-->
+    <string-array name="beer_color">
+        <item>bionda</item>
+        <item>scura</item>
+        <item>rossa</item>
+    </string-array>
+</resources>
